@@ -1,5 +1,5 @@
-👋 | Hola!! Soy Sinck, soy un:
-🤓 | Desarrollador Junior y
-❤️ | Creador de contenido
-🅢🅘🅖🅤🅔🅜🅔
+👋 | Hola!! Soy Sinck, soy un: <br>
+🤓 | Desarrollador Junior y <br>
+❤️ | Creador de contenido<br>
+🅢🅘🅖🅤🅔🅜🅔<br>
 bit.ly/PresionaAqui_
